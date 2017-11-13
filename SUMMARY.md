@@ -5,4 +5,5 @@
 * [How do I browse WFL?](second-question.md)
 * [Part of Speech choice](part-of-speech-choice.md)
 * [Word Formation Rules](word-formation-rules.md)
+* [Publications](publications.md)
 
