@@ -1,2 +1,8 @@
-Adulescens &gt; per-adulescens will be found under a prefix+conversion rule : V-to-N per-
+* Prefix
+* Suffix
+* Conversion
+* Prefix+ Conversion
+* Compounding
+
+
 
