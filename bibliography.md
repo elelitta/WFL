@@ -6,7 +6,7 @@ This is a list of works that was used and consulted during the compilation of Wo
 
 Aronoff, Mark. 1976. ‘Word Formation in Generative Grammar’. Linguistic Inquiry Monographs Cambridge, Mass., no. 1:1–134.
 
-Bader, Françoise. 1962. La Formation Des Composés Nominaux Du Latin.Vol. 46. Presses Univ. Franche-Comté. 
+Bader, Françoise. 1962. La Formation Des Composés Nominaux Du Latin.Vol. 46. Presses Univ. Franche-Comté.
 
 Benedetti, Marina. 1988. I composti radicali latini: esame storico e comparativo.Giardini.
 
@@ -14,13 +14,13 @@ Clackson, James. 2002a. ‘Composition in Indo-European Languages’. Transactio
 
 ———. , ed. 2011. A Companion to the Latin Language. Blackwell Companions to the Ancient World. Chichester ; Malden, Mass: Wiley-Blackwell.
 
-Domenig, Marc. 1988. ‘Word Manager: A System for the Definition, Access and Maintenance of Lexical Databases’. In Proceedings of the 12th Conference on Computational Linguistics-Volume 1, 154–59. Association for Computational Linguistics. 
+Domenig, Marc. 1988. ‘Word Manager: A System for the Definition, Access and Maintenance of Lexical Databases’. In Proceedings of the 12th Conference on Computational Linguistics-Volume 1, 154–59. Association for Computational Linguistics.
 
 Domenig, Marc, and Pius Ten Hacken. 1992. Word Manager: A System for Morphological Dictionaries. Vol. 1. Georg Olms Verlag AG.
 
 Fruyt, M. 2002. ‘Les Dérivés En-Cus,-Ca,-Cum’. C. Kircher-Durand \(éd.\), Création Lexicale: La Formation Des Noms Par Dérivation Suffixale, Louvain-Paris-Dudley, MA, 67–108.
 
-Fruyt, Michèle. 1990. ‘Complex Lexical Units in Latin’. In New Studies in Latin Linguistics: Proceedings of the 4th International Colloquium on Latin Linguistics, Cambridge, April 1987, 21:75. John Benjamins Publishing. 
+Fruyt, Michèle. 1990. ‘Complex Lexical Units in Latin’. In New Studies in Latin Linguistics: Proceedings of the 4th International Colloquium on Latin Linguistics, Cambridge, April 1987, 21:75. John Benjamins Publishing.
 
 ———. 2000. ‘La Création Lexicale: Généralités Appliquées Au Domaine Latin’. In Michèle Fruyt et Christian Nicolas \(éd.\), La Création Lexicale En Latin.Actes de La Table Ronde Du Neuvième Colloque International de Linguistique Latine \(Madrid, 16 Avril 1997\), Paris, Presses de L’université de Paris-Sorbonne, 11–48.
 
@@ -32,19 +32,19 @@ Gaide, F. 1988. Les Substantifs Masculins Latins En...\(i\) O,...\(i\) Onis. éd
 
 Hacken, Pius ten. 1998. ‘Word Formation in Electronic Dictionaries’. Dictionaries: Journal of the Dictionary Society of North America 19 \(1\):158–87.
 
-Hacken, Pius ten, Stephan Bopp, Marc Domenig, Dieter Holz, Alain Hsiung, and Sandro Pedrazzini. 1994. ‘A Knowledge Acquisition and Management System for Morphological Dictionaries’. In , 2:1284. Association for Computational Linguistics. 
+Hacken, Pius ten, Stephan Bopp, Marc Domenig, Dieter Holz, Alain Hsiung, and Sandro Pedrazzini. 1994. ‘A Knowledge Acquisition and Management System for Morphological Dictionaries’. In , 2:1284. Association for Computational Linguistics.
 
 Hacken, Pius Ten, and Dorota Smyk. 2003. ‘Word Formation versus Etymology in Electronic Dictionaries’, 221–30.
 
-Hathout, Nabil, and Fiammetta Namer. 2014. ‘Démonette, a French Derivational Morpho-Semantic Network’. LiLT \(Linguistic Issues in Language Technology\) 11. 
+Hathout, Nabil, and Fiammetta Namer. 2014. ‘Démonette, a French Derivational Morpho-Semantic Network’. LiLT \(Linguistic Issues in Language Technology\) 11.
 
 Hockett, Charles F. 1954. ‘Two Models of Grammatical Description’. Morphology: Critical Concepts in Linguistics 1:110–38.
 
-ICCU. n.d. ‘Risultati sintetici’.OPAC SBN. Accessed 16 December 2015. http://www.sbn.it/opacsbn/opaclib.
+ICCU. n.d. ‘Risultati sintetici’.OPAC SBN. Accessed 16 December 2015. [http://www.sbn.it/opacsbn/opaclib](http://www.sbn.it/opacsbn/opaclib).
 
 Jenks, P.R. 1911. A Manual of Latin Word Formation for Secondary Schools. DC Heath & Company.
 
-Kircher-Durand, Chantal. 2002. Grammaire Fondamentale Du Latin Tome IX Création Lexicale: La Formation Des Noms Par Dérivation Suffixale. Vol. 9. Peeters Publishers. 
+Kircher-Durand, Chantal. 2002. Grammaire Fondamentale Du Latin Tome IX Création Lexicale: La Formation Des Noms Par Dérivation Suffixale. Vol. 9. Peeters Publishers.
 
 Kircher-Durand, Chantal. 2002a. ‘Les Adjectifs En-Eus,-A,-Um’. Création Lexicale: La Formation Des Noms Par Dérivation Suffixale, Louvain-Paris-Dudley Ma, 85–108.
 
@@ -60,7 +60,7 @@ Lieber, Rochelle, and Pavol Stekauer. 2009. The Oxford Handbook of Compounding. 
 
 ———. 2014. The Oxford Handbook of Derivational Morphology. OUP Oxford.
 
-Linguistic Studies on Latin : Selected Papers from the 6th International Colloquium on Latin Linguistics \(Budapest, 23–27 March 1991\). 1994. Amsterda, NLD: John Benjamins Publishing Company. 
+Linguistic Studies on Latin : Selected Papers from the 6th International Colloquium on Latin Linguistics \(Budapest, 23–27 March 1991\). 1994. Amsterda, NLD: John Benjamins Publishing Company.
 
 Maire, Brigitte. 2014. ‘Greek’ and ‘Roman’ in Latin Medical Texts: Studies in Cultural Change and Exchange in Ancient Medicine. BRILL.
 
@@ -72,13 +72,13 @@ Oniga, Renato. 1988. I composti nominali latini: una morfologia generativa. Pàt
 
 ———. n.d. ‘Compounding in Latin, Rivista Di Linguistica 4, 1992, 97-116’.
 
-Pala, Karel, and Radek Sedláček. 2005. ‘Enriching Wordnet with Derivational Subnets’. In Computational Linguistics and Intelligent Text Processing, 305–11. Springer. 
+Pala, Karel, and Radek Sedláček. 2005. ‘Enriching Wordnet with Derivational Subnets’. In Computational Linguistics and Intelligent Text Processing, 305–11. Springer.
 
 Panichi, Emidio. 1972. La Formazione Nominale in Latino.Liguori.
 
 Pecman, Mojca. 2002. ‘Les Adjectifs En-Ax’.Grammaire Fondamentale Du Latin. Tome IX.Création Lexicale: La Formation Des Noms Par Dérivation Suffixale, pp – 25.
 
-Pedrazzini, Sandro, and Pius ten Hacken. 1993. Phrase Manager. Universität Basel. Institut für Informatik. 
+Pedrazzini, Sandro, and Pius ten Hacken. 1993. Phrase Manager. Universität Basel. Institut für Informatik.
 
 Rasmussen, Jens Elmeg\a ard. 2002. ‘The Compound as a Phonological Domain in Indo–European’. Transactions of the Philological Society 100 \(3\):331–50.
 
@@ -96,7 +96,7 @@ Ten Hacken, Pius. 1994. Defining Morphology: A Principled Approach to Determinin
 
 Ten Hacken, Pius, and Marc Domenig. 1996. ‘Reusable Dictionaries for NLP: The Word Manager Approach’. LEXICOLOGY-BERLIN- 2:232–55.
 
-Zeller, Britta D., Jan Snajder, and Sebastian Padó. 2013. ‘DErivBase: Inducing and Evaluating a Derivational Morphology Resource for German.’ In ACL \(1\), 1201–11. http://anthology.aclweb.org/P/P13/P13-1118.pdf.
+Zeller, Britta D., Jan Snajder, and Sebastian Padó. 2013. ‘DErivBase: Inducing and Evaluating a Derivational Morphology Resource for German.’ In ACL \(1\), 1201–11. [http://anthology.aclweb.org/P/P13/P13-1118.pdf](http://anthology.aclweb.org/P/P13/P13-1118.pdf).
 
-Zeller, Britta, Sebastian Padó, and Jan Šnajder. 2014. ‘Towards Semantic Validation of a Derivational Lexicon’. In Proceedings of COLING, 1728–39. http://anthology.aclweb.org/C/C14/C14-1163.pdf.n.d.
+Zeller, Britta, Sebastian Padó, and Jan Šnajder. 2014. ‘Towards Semantic Validation of a Derivational Lexicon’. In Proceedings of COLING, 1728–39. [http://anthology.aclweb.org/C/C14/C14-1163.pdf.n.d](http://anthology.aclweb.org/C/C14/C14-1163.pdf.n.d).
 
