@@ -2,49 +2,51 @@ Word Formation Rules \(WFRs\) were conceived according to the Item-and-Arrangeme
 
 ##### Prefixation
 
-In general, we consider prefixes those prepositions that are attached to the beginning of a word, e.g. ad, ab, ex, prae etc. 
+In general, we consider prefixes those morphemes that are often equivalent to a preposition, which are attached to the beginning of a word, e.g. ad, ab, ex, prae etc. as indicated by Oxford Latin Dictionary.
 
 Moreover, we have included among prefixes all those numeral affixes that are considered prefixes by the Oxford Latin Dictionary. These are bi-, tri-, quadri-.
 
 The following is a list of prefixes that can be found in WFL:
 
-* a\(b\)
-* ad
-* am\(b\)\(i\)
-* ante
-* archi
-* bi
-* circum
-* con
-* contra
-* de
-* dis
-* e\(x\)
-* ec
-* extra
-* in \(entering\)
-* inter
-* intro
-* multi
-* ne
-* ob
-* per
-* post
-* prae
-* praeter
-* pro
-* quadri
-* re
-* retro
-* se/sed/so
-* semi
-* sub
-* subter
-* super
-* tra\(ns\)
-* tri
+* a\(b\)-
+* ad-
+* am\(b\)\(i\)-
+* ante-
+* archi-
+* bi-
+* circum-
+* con-
+* contra-
+* de-
+* dis-
+* e\(x\)-
+* ec-
+* extra-
+* in \(entering\)-
+* inter-
+* intro-
+* multi-
+* ne-
+* ob-
+* per-
+* post-
+* prae-
+* praeter-
+* pro-
+* quadri-
+* re-
+* retro-
+* se-/sed-/so-
+* semi-
+* sub-
+* subter-
+* super-
+* tra\(ns\)-
+* tri-
 
 ##### Suffixation
+
+
 
 ##### Conversion
 
@@ -52,17 +54,11 @@ We have included change of inflection class, or gender, such as masculine to fem
 
 examples: aera N1 &lt; aes N3:n
 
-
-
 ##### Compounding
 
 ##### 
 
-
-
 ##### Prefixation + Conversion
-
-
 
 ##### Parasynthesis or double affixation
 
