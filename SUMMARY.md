@@ -7,4 +7,5 @@
 * [Lexical Basis](first-question.md)
 * [How do I browse WFL?](second-question.md)
 * [Publications](publications.md)
+* [Bibliography](bibliography.md)
 
