@@ -1,6 +1,6 @@
-Parts of Speech \(PoS\)
+# Parts of Speech \(PoS\)
 
-Here is a legenda of PoS codes used in the resource:
+###### Legenda of PoS codes used in the resource
 
 A: adjectives. A is followed by a number indicating the class of the adjective, i.e. 1 for adjectives of the first class and 2 for adjectives of the second class.
 
@@ -12,13 +12,7 @@ I: invariable lexemes, i.e. adverbs, interjections, conjunctions.
 
 PR: pronouns
 
-
-
-
-
-
-
-Participles
+###### Where to find participial nouns or adjectives:
 
 adulescens&gt; per-adulescens
 
