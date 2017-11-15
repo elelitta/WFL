@@ -1,8 +1,6 @@
 # Bibliography
 
-This is a list of works that was used and consulted during the compilation of Word Formation Latin. Some of these titles are mentioned in this documentation.
-
-
+This is a list of works that were used and consulted during the compilation of Word Formation Latin. Some of these titles are mentioned in this documentation.
 
 Aronoff, Mark. 1976. ‘Word Formation in Generative Grammar’. Linguistic Inquiry Monographs Cambridge, Mass., no. 1:1–134.
 
