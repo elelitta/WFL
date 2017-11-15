@@ -1,4 +1,4 @@
-#### 
+# What is Word Formation Latin \(WFL\)?
 
 Word Formation Latin \(WFL\) is a language resource for Classical Latin that connects lexical items on the basis of word-formation rules \(WFRs\). The scope of WFL is to assign a WFR to each morphologically-complex lexeme \(i.e. one word morphologically derived from another word\) and to link each complex lexeme to its ancestor. All those lexemes that share a common \(not derived\) ancestor belong tothe same “word formation family”. For instance, the noun_ bellatrix _‘she who wages war’, the verb rebello ‘to revolt, rebel’, and the adjective _bellicosus_ ‘fond of war’ all belong to the word formation family whose ancestor is noun _bellum_ ‘war’. The semi-automatic insertion of lemmas into the WFL database establishes input-output relations for a set of lemmas matching the features that characterise each WFR.
 
@@ -12,7 +12,5 @@ The content of the WFL database is licensed under a:
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-
-
-Last updated: 
+Last updated:
 
