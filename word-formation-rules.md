@@ -201,9 +201,7 @@ Compound words collected in WFL are created through 59 WFRs.
 * V+V=N
 * V+V=V
 
-#### Prefixation + Conversion
 
-#### Parasynthesis or double affixation
 
 
 
