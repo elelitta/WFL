@@ -4,7 +4,7 @@
 
 There are two types of word formation processes in Latin: **derivation** and **compounding**.
 
-Derivation can be further split into:
+**Derivation** can be further split into:
 
 1\) **Affixation**, where one or more morphemes, called affixes, can be attached to the base of a word. Affixation can be of two types, and can involve \(or not\) a change of part of speech:
 
@@ -200,8 +200,6 @@ Compound words collected in WFL are created through 59 WFRs.
 * V+V=A
 * V+V=N
 * V+V=V
-
-
 
 
 
