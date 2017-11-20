@@ -1,6 +1,19 @@
 # Which Word Formation Rules?
 
-Word Formation Rules \(WFRs\) were conceived according to the Item-and-Arrangement \(IA\) model, which considers word forms either as simple \(non-derived\) morphemes or as a sequence of morphemes \(base and affixes\) having both form and meaning \(Hockett 1954\). IA was chosen as the theoretical model supporting WFL for two main reasons: first, it emphasises the semantic significance of affixal elements as they are found in the lexicon; secondly, IA was the model adopted by other derivational lexica like _Word Manager_ \(Domenig and ten Hacken, 1992\), after which WFL was designed.
+**Word Formation Rules** \(**WFRs**\) were conceived according to the** Item-and-Arrangement **\(IA\) model, which considers word forms either as simple \(non-derived\) morphemes or as a **sequence of morphemes** \(**base** and **affixes**\) having both form and meaning \(Hockett 1954\). IA was chosen as the theoretical model supporting WFL for two main reasons: first, it emphasises the **semantic** **significance** of affixal elements as they are found in the lexicon; secondly, IA was the model adopted by other derivational lexica like _Word Manager_ \(Domenig and ten Hacken, 1992\), after which WFL was designed.
+
+There are two types of word formation processes in Latin: **derivation** and **compounding**.
+
+Derivation can be further split into:
+
+1\) **Affixation**, where one or more morphemes, called affixes, can be attached to the base of a word. Affixation can be of two types, and can involve \(or not\) a change of part of speech:
+
+* **Prefixation**: where the affix is attached **before** the base.
+* **Suffixation**: where the affix is attached **after** the base.
+
+2\) **Conversion**, where the derived word incurs only in a change of part of speech without the addition of any affix.
+
+
 
 ##### Prefixation
 
@@ -48,7 +61,9 @@ The following is a list of prefixes that can be found in WFL:
 
 ##### Suffixation
 
-The following is a list of suffixes that can be found in WFL:
+A suffix is an affix that is placed after the stem of a word, to form another word. 
+
+A list of suffixes that can be found in WFL:
 
 * \(at\)im
 * \(i\)cul
