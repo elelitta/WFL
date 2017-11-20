@@ -48,6 +48,63 @@ The following is a list of prefixes that can be found in WFL:
 
 ##### Suffixation
 
+The following is a list of suffixes that can be found in WFL:
+
+* \(at\)im
+* \(i\)cul
+* \(i/a\)n
+* \(i/e\)ll
+* \(t\)io\(n\)
+* \(t\)iu
+* \(t\)or
+* \(t\)ric
+* \(t\)ur
+* ac
+* ace
+* al
+* an
+* ar
+* at
+* atil
+* bil
+* bund
+* cell/cill
+* cr
+* cul
+* e
+* edo/edin
+* el
+* et
+* far
+* fex
+* go/gin
+* i
+* ic
+* ici
+* id
+* il
+* iss
+* ist
+* it
+* iti
+* itud/itudin
+* men/min
+* ment
+* n
+* ol
+* or
+* os
+* ri
+* sc
+* str
+* tas/tat
+* tori
+* tr
+* udo/udin
+* ul
+* uncul
+* ur
+
 ##### Conversion
 
 We have included change of inflection class, or gender, such as masculine to feminine, or 3rd declension to 1st declension, among N-to-N conversions.
