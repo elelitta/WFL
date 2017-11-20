@@ -13,9 +13,9 @@ Derivation can be further split into:
 
 2\) **Conversion**, where the derived word incurs only in a change of part of speech without the addition of any affix.
 
+**Compounding** is the formation of a new lexeme from two or more lexemes.
 
-
-##### Prefixation
+#### Prefixation
 
 In general, we consider prefixes those morphemes that are often equivalent to a preposition, which are attached to the beginning of a word, e.g. ad, ab, ex, prae etc. as indicated by Oxford Latin Dictionary.
 
@@ -59,9 +59,9 @@ The following is a list of prefixes that can be found in WFL:
 * tra\(ns\)-
 * tri-
 
-##### Suffixation
+#### Suffixation
 
-A suffix is an affix that is placed after the stem of a word, to form another word. 
+A suffix is an affix that is placed after the stem of a word, to form another word.
 
 A list of suffixes that can be found in WFL:
 
@@ -120,19 +120,35 @@ A list of suffixes that can be found in WFL:
 * uncul
 * ur
 
-##### Conversion
+#### Conversion
 
 We have included change of inflection class, or gender, such as masculine to feminine, or 3rd declension to 1st declension, among N-to-N conversions.
 
 examples: aera N1 &lt; aes N3:n
 
-##### Compounding
+Conversions in WFL are of the following kind:
+
+* V-To-V
+* V-To-N
+* V-To-A
+* V-To-I
+* N-To-V
+* N-To-N
+* N-To-A
+* N-To-I
+* A-To-V
+* A-To-N
+* A-To-I
+* I-To-A
+* PR-To-N
+
+#### Compounding
 
 ##### 
 
-##### Prefixation + Conversion
+#### Prefixation + Conversion
 
-##### Parasynthesis or double affixation
+#### Parasynthesis or double affixation
 
 
 
