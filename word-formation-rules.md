@@ -144,7 +144,62 @@ Conversions in WFL are of the following kind:
 
 #### Compounding
 
-##### 
+Compound words collected in WFL are created through 59 WFRs.
+
+* A+A=A
+* A+A=N
+* A+I=I
+* A+N=A
+* A+N=I
+* A+N=N
+* A+PR=PR
+* A+V=A
+* A+V=N
+* A+V=V
+* I+A=A
+* I+A=I
+* I+I=I
+* I+N=A
+* I+N=I
+* I+N=N
+* I+N=N
+* I+PR=A
+* I+PR=I
+* I+PR=PR
+* I+V=A
+* I+V=I
+* I+V=N
+* I+V=V
+* N+A=A
+* N+A=N
+* N+I=I
+* N+N=A
+* N+N=N
+* N+V=A
+* N+V=I
+* N+V=N
+* N+V=V
+* PR+A=A
+* PR+A=N
+* PR+A=PR
+* PR+I=I
+* PR+I=PR
+* PR+N=A
+* PR+N=I
+* PR+PR=I
+* PR+PR=PR
+* PR+V=N
+* PR+V=PR
+* PR+V=PR
+* PR+V=V
+* V+A=A
+* V+N=A
+* V+N=I
+* V+N=N
+* V+PR=PR
+* V+V=A
+* V+V=N
+* V+V=V
 
 #### Prefixation + Conversion
 
