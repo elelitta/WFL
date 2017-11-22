@@ -2,7 +2,7 @@
 
 Important caveats:
 
-1\) WFL only contain derived and compounded words and their input words. You will not find a word that does not have a derived output, e.g. omen, mors, lavo.
+1\) WFL only contain derived and compounded words and their input words. You will not find a word that does not have a derived output.
 
 2\) Type 'u' instead of 'v'.
 
