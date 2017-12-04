@@ -8,11 +8,9 @@ Important caveats:
 
 The word formation lexicon can be accessed on-line through a visualisation query system \([http://wfl.marginalia.it](http://wfl.marginalia.it/)\). The lexicon can be browsed either by WFR, affix, or input and output PoS or lemma. Drop down menus provide the available options for each selection, like for instance the list of affixes and lemmas.
 
-Results are visualised as tree graphs, whose nodes are lemmas and edges are WFRs. Trees are interactive. Clicking on a node shows the full derivation tree \(“word formation cluster”, which is calculated dynamically\) for the lemma reported in that node. For example, Figure 1 shows part of the word formation cluster for the lemma _amo _'to love'. One can see that _amabilis_ 'lovable' derives from _amo_ and it is in turn the input for two other derived lemmas: _amabilitas_ 'loveliness' and _inamabilis_ 'unlovely'. Clicking on an edge shows the lemmas built by the WFR concerned in that edge. Lemmas are provided both as a derivation graph and as an alphabetical list. For instance, clicking on the edge going from amo to _amabilis_ in Figure 1 shows the lemmas built by the derivation WFR that builds second class adjectives \(A2\) from first conjugation verbs \(V1\) with suffix –_bil_–. 
+Results are visualised as tree graphs, whose nodes are lemmas and edges are WFRs. Trees are interactive. Clicking on a node shows the full derivation tree \(“word formation cluster”, which is calculated dynamically\) for the lemma reported in that node. For example, Figure 1 shows part of the word formation cluster for the lemma _amo _'to love'. One can see that _amabilis_ 'lovable' derives from _amo_ and it is in turn the input for two other derived lemmas: _amabilitas_ 'loveliness' and _inamabilis_ 'unlovely'. Clicking on an edge shows the lemmas built by the WFR concerned in that edge. Lemmas are provided both as a derivation graph and as an alphabetical list. For instance, clicking on the edge going from amo to _amabilis_ in Figure 1 shows the lemmas built by the derivation WFR that builds second class adjectives \(A2\) from first conjugation verbs \(V1\) with suffix –_bil_–.
 
 ![](/assets/Derivation graph for amo %281%29.png)Figure 1: partial word formation family for _amo_.
-
-
 
 Figure 2 presents a portion of the derivation graph for this rule.
 
@@ -20,7 +18,59 @@ Figure 2 presents a portion of the derivation graph for this rule.
 
 Figure 2. Derivation graph for a WFR.
 
+In order to enable users to access WFL, we have developed a specific web application, where the relationships between lexemes of the same word formation family are represented as a tree-graph. In this graph, a node is a lexeme, and an edge is the WFR used to derive the output lexeme from the input one \(or two/three, in the case of compounds\), along with any affix used.The entire database is thus like a big graph represented as a collection of edges, and the set of word formation families is simply the set of connected subgraphs.
+
+The website has been designed keeping in mind the kinds of queries and results that a linguist would be interested in. There are four distinct perspectives to query WFL:
+
+1.By WFR – the primary interest is the behaviour of a specific WFR. For example, it is possible to view and download a list of all verbs that derive from a noun with a conversive derivation process \(e.g. radix ‘root’ &gt;radicor ‘to grow roots’\);
+
+2.By affix – it acts similarly as above, but works more specifically on affixal behaviour. For example, this perspective enables to retrieve all masculine nouns featuring the suffix -tor and to verify how many of them correspond to a female equivalent ending in -trix;
+
+3.By PoS – the primary interest is the part of speech \(PoS\) of input and output lexemes. This view is useful for studies on macro-categories of morphological transformation, like nominalisation and verbalisation;
+
+4.By lexeme – it focuses on both derived and non-derived lexemes. It supports studies on the productivity of one specific morphological family or a set of morphological families.
+
+The results of these browsing options are of three types:
+
+a.lists of lexemes resulting from a query, that can be downloaded in a .txt file;
+
+b.derivational graphs: this type of graph represents the derivational chain \(or cluster\) for a specific lexeme, which includes all the lexemes derived from the lexeme selected, as well as all those it is derived from;
+
+c.a summary of the application of a given WFR to different PoS and the resulting lexemes.
 
 
-Deeper searches: how to use regular expressions to look into thematic vowels.
+
+An important design aspect of the WFL web application is the fact that it limits queries that produce no results. Queries could produce no results if they search either for unattested WFRs, or for WFRs not yet included in WFL. Providing users with all the possible combinations of PoS, WFRs and affixes would result in quite long lists, thus requiring users to run single queries to find manually which of them have no occurrences in WFL. Instead, this can be easily inferred from the interface, as it is expected that one possible combination that is unavailable in the interface does not correspond to any word in WFL. For instance, the suffix -ace- is available only for denominal adjectives \(N-To-A, argilla ‘clay’ &gt;argillaceus ‘made of clay’\), which means that it is not at work for all the other possible combinations of input/output PoS.
+
+In the web application, the four perspectives on queries mentioned above are implemented as four different screens, accessed via a top-level menu.
+
+For WFRs and affixes, the basic type \(e.g. “Prefixation” for WFRs, or “Prefixes” for Affixes\) is chosen via tab buttons, and for all perspectives the finer grained choices are specified via drop-down menus. The difference between querying the database by WFRs and by affixes is reflected in the priority of drop-down menus. For WFRs, first a WFR type \(or types\) is chosen \(e.g. V-to-V for deverbal verbs\), and then any desired affixes. The choice of the WFR type updates the second drop-down menu to restrict the affixes to just those that occur with the selected WFR type. A similar interaction holds for affixes.
+
+The PoS-based query option does not have an intermediate level of selection, but the choice is made via a series of drop-down menus. For each possible item involved in a WFR \(one or two base input lexemes - the latter for compounds - and the output\), there is the choice of PoS, and then refinements of that PoS: these are inflectional categories for all PoS \(declension for nouns, classes for adjectives and conjugation for verbs\), as well as gender for nouns. The options for the inflectional categories are limited to those appropriate for the PoS chosen.
+
+Querying WFL by lexeme is performed by radio buttons, which allow for the selection of “all lexemes”, “only roots” of derivational clusters \(not derived lexemes\) or “only derived lexemes”. The list of lexemes with their PoS \(and gender, for nouns\) is shown in a list, which can be filtered with the employment of common regular expression queries.
+
+The three types of query results are visualised in distinct ways in separate windows, interacting across the result types. Clicking on a lexeme in the list opens its derivational graph in a separate window.
+
+![](file:////Users/eleonoramarialitta/Library/Group%20Containers/UBF8T346G9.Office/msoclip1/01/clip_image002.gif)
+
+**Figure3**. Derivational graph ofabigo‘to drive away’.
+
+In the graph of Figure 3, nodes are filled with lexemes and edges are labelled with affixes or input-output PoS \(in the case of compounding and conversions\). The selected lexeme is shown inside a box. Clicking on any lexeme in the graph replaces the current derivational graph with the one for the clicked lexeme, moving the focus of the derivational trail. Clicking on an edge label in the derivational graph opens a new window \(Figure 2\) which provides a visualisation summarising the application of the corresponding WFR by PoS, a left-rooted tree, with the name of the affix as the root \(first level of the tree\), and all the combinations of the input and output PoS with their refinements \(e.g. conjugation for verbs\) as second level branches, giving the number of lexemes for each input-output combination.
+
+![](file:////Users/eleonoramarialitta/Library/Group%20Containers/UBF8T346G9.Office/msoclip1/01/clip_image004.gif)
+
+**Figure4.** Derivation Graph for WFR N-to-A-ace
+
+The graph is collapsable so the user can focus on certain subsets only. As the subsets change, the list of lexemes is updated to reflect just the subsets that are selected.
+
+An additional feature of querying the lexicon by WFRs and by affixes is to search across the full derivational path of lexemes, thus providing results that go beyond the “outermost” WFR. By selecting the “include as intermediate” option, one can search not only for all the lexemes derived by a specific WFR but also for those that include at least one lexeme produced by that WFR along their derivational path. For instance, with this option selected, among the results of a query that searches for deverbal adjectives formed with suffix -bil is not only the adjective affabilis ‘that can be easily spoken’, but also the noun affabilitas ‘courtesy’ which has a deverbal adjective formed with suffix -bil along its derivational path as it is derived from affabilis.
+
+All results can be downloaded: the list of lexemes as a tab-delimited text file, while the derivation graphs and WFR trees as images.
+
+Moreover, in the case of compounds, the user can choose whether to visualise or not both the roots of compounds, thus resulting in a multi-tree graph rather than a simple tree.
+
+It has to be remembered that, while searching by WFRs or PoS, a few peculiarities of the Lemlat lexical basis can result in a rather unconventional classification of the rules, which impacts especially \(but not solely\) on searches performed on compounds. For instance, participial adjectives are not included in the Lemlat lexical basis, because they are considered part of the verbal paradigm. This means that certain compounds that would be expected to have an adjective \(A\) as one of their constituents have a verb \(V\) instead, e.g. adjective altisonus \(altus + sono\) ‘that sounds high up, sublime’ can be found among V+V=A compounds rather than among A+V=A. Also, adjectival adverbs are considered in Lemlat adverbial cases of the adjectival declension, hence a word such as dulciloquus \(dulce + loquor\) ‘sweet talking’ is to be found among A+V=A, rather than I+V=A.
+
+**Deeper searches: how to use regular expressions to look into thematic vowels.**
 
