@@ -16,7 +16,5 @@ PR: pronouns
 
 adulescens&gt; per-adulescens
 
-Numerals:
 
-Compounded numerals such as _uiceni_, _treceni_, _undeni_, etc. are not included in WFL. This is mainly because the word formation process of these numerals is completely opaque \(_viceni_ should be analysed as formed by _viginti_+_annus_\) to the point that we can consider numerals as lexicalised compounds. Moreover, numerals should be, by nature, an open class, which is made closed only by their limited mention in the dictionaries.
 
