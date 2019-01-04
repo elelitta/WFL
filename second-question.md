@@ -50,15 +50,17 @@ Querying WFL by lexeme is performed by radio buttons, which allow for the select
 
 The three types of query results are visualised in distinct ways in separate windows, interacting across the result types. Clicking on a lexeme in the list opens its derivational graph in a separate window.
 
-![](file:////Users/eleonoramarialitta/Library/Group Containers/UBF8T346G9.Office/msoclip1/01/clip_image002.gif)
 
-**Figure3**. Derivational graph ofabigo‘to drive away’.
+
+![](/assets/abigo.png)![](file:////Users/eleonoramarialitta/Library/Group Containers/UBF8T346G9.Office/msoclip1/01/clip_image002.gif)
+
+Figure 3. Derivational graph of abigo ‘to drive away’.
 
 In the graph of Figure 3, nodes are filled with lexemes and edges are labelled with affixes or input-output PoS \(in the case of compounding and conversions\). The selected lexeme is shown inside a box. Clicking on any lexeme in the graph replaces the current derivational graph with the one for the clicked lexeme, moving the focus of the derivational trail. Clicking on an edge label in the derivational graph opens a new window \(Figure 2\) which provides a visualisation summarising the application of the corresponding WFR by PoS, a left-rooted tree, with the name of the affix as the root \(first level of the tree\), and all the combinations of the input and output PoS with their refinements \(e.g. conjugation for verbs\) as second level branches, giving the number of lexemes for each input-output combination.
 
-![](file:////Users/eleonoramarialitta/Library/Group Containers/UBF8T346G9.Office/msoclip1/01/clip_image004.gif)
+![](/assets/ace.png)
 
-**Figure4.** Derivation Graph for WFR N-to-A-ace
+**Figure 4.** Derivation Graph for WFR N-to-A -ace
 
 The graph is collapsable so the user can focus on certain subsets only. As the subsets change, the list of lexemes is updated to reflect just the subsets that are selected.
 
