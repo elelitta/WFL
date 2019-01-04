@@ -38,8 +38,6 @@ b.derivational graphs: this type of graph represents the derivational chain \(or
 
 c.a summary of the application of a given WFR to different PoS and the resulting lexemes.
 
-
-
 An important design aspect of the WFL web application is the fact that it limits queries that produce no results. Queries could produce no results if they search either for unattested WFRs, or for WFRs not yet included in WFL. Providing users with all the possible combinations of PoS, WFRs and affixes would result in quite long lists, thus requiring users to run single queries to find manually which of them have no occurrences in WFL. Instead, this can be easily inferred from the interface, as it is expected that one possible combination that is unavailable in the interface does not correspond to any word in WFL. For instance, the suffix -ace- is available only for denominal adjectives \(N-To-A, argilla ‘clay’ &gt;argillaceus ‘made of clay’\), which means that it is not at work for all the other possible combinations of input/output PoS.
 
 In the web application, the four perspectives on queries mentioned above are implemented as four different screens, accessed via a top-level menu.
@@ -52,13 +50,13 @@ Querying WFL by lexeme is performed by radio buttons, which allow for the select
 
 The three types of query results are visualised in distinct ways in separate windows, interacting across the result types. Clicking on a lexeme in the list opens its derivational graph in a separate window.
 
-![](file:////Users/eleonoramarialitta/Library/Group%20Containers/UBF8T346G9.Office/msoclip1/01/clip_image002.gif)
+![](file:////Users/eleonoramarialitta/Library/Group Containers/UBF8T346G9.Office/msoclip1/01/clip_image002.gif)
 
 **Figure3**. Derivational graph ofabigo‘to drive away’.
 
 In the graph of Figure 3, nodes are filled with lexemes and edges are labelled with affixes or input-output PoS \(in the case of compounding and conversions\). The selected lexeme is shown inside a box. Clicking on any lexeme in the graph replaces the current derivational graph with the one for the clicked lexeme, moving the focus of the derivational trail. Clicking on an edge label in the derivational graph opens a new window \(Figure 2\) which provides a visualisation summarising the application of the corresponding WFR by PoS, a left-rooted tree, with the name of the affix as the root \(first level of the tree\), and all the combinations of the input and output PoS with their refinements \(e.g. conjugation for verbs\) as second level branches, giving the number of lexemes for each input-output combination.
 
-![](file:////Users/eleonoramarialitta/Library/Group%20Containers/UBF8T346G9.Office/msoclip1/01/clip_image004.gif)
+![](file:////Users/eleonoramarialitta/Library/Group Containers/UBF8T346G9.Office/msoclip1/01/clip_image004.gif)
 
 **Figure4.** Derivation Graph for WFR N-to-A-ace
 
@@ -72,5 +70,5 @@ Moreover, in the case of compounds, the user can choose whether to visualise or 
 
 It has to be remembered that, while searching by WFRs or PoS, a few peculiarities of the Lemlat lexical basis can result in a rather unconventional classification of the rules, which impacts especially \(but not solely\) on searches performed on compounds. For instance, participial adjectives are not included in the Lemlat lexical basis, because they are considered part of the verbal paradigm. This means that certain compounds that would be expected to have an adjective \(A\) as one of their constituents have a verb \(V\) instead, e.g. adjective altisonus \(altus + sono\) ‘that sounds high up, sublime’ can be found among V+V=A compounds rather than among A+V=A. Also, adjectival adverbs are considered in Lemlat adverbial cases of the adjectival declension, hence a word such as dulciloquus \(dulce + loquor\) ‘sweet talking’ is to be found among A+V=A, rather than I+V=A.
 
-**Deeper searches: how to use regular expressions to look into thematic vowels.**
+**Across the free text search options it is possible to use regular expressions.**
 
