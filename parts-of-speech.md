@@ -1,6 +1,6 @@
 # Parts of Speech \(PoS\)
 
-##### Legenda of PoS codes used in the resource
+##### Keys for PoS codes used in the resource
 
 A: adjectives. A is followed by a number indicating the class of the adjective, i.e. 1 for adjectives of the first class and 2 for adjectives of the second class. For example, A2 means adjective of the second class.
 
