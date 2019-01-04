@@ -12,9 +12,7 @@ I: invariable lemmas, i.e. adverbs, interjections, conjunctions.
 
 PR: pronouns
 
-##### Where to find participial nouns or adjectives
-
-adulescens&gt; per-adulescens
+##### 
 
 
 
